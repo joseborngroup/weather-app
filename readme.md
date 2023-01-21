@@ -1,11 +1,11 @@
 # Run the programme
 npm run start \
-nodemon src/app.js -e js,hbs // locally \
+npm run dev
 
-# Http request
+# Http request locally
 http://localhost:3000/weather?address=London
 
-# Github repo
+# Github Repo
 https://github.com/joseborngroup/weather-app
 
 # Heroku
